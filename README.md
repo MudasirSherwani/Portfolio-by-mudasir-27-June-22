@@ -2,9 +2,9 @@
 
 > This is Portfolio project in Mobile View only .This project developement assing by Microverse.
 > In the Mobile View Portfolio there are few important sections are visible.
-> This project has done after getting templete from FIGMA templete #5.
+> This project has done after getting templete from FIGMA templete #4.
 
-![Portfolio in Mobile View](Protfolio_mobile_view_ss.PNG)
+![Portfolio in Mobile View](Protfolio_SS.PNG)
 
 ## Built With
 
