@@ -17,6 +17,7 @@
 
 - HTML
 - CSS > FlexBox
+- CSS > Grid
 
 ## Extensions / Plugins
 
