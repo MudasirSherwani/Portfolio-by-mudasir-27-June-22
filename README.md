@@ -6,7 +6,6 @@
 
 ![Portfolio in Mobile View](/images/Portfolio_SS_1.PNG)
 ![Portfolio in Mobile View](/images/Portfolio_SS_12.PNG)
-![Portfolio in Mobile View](/images/Portfolio_SS_123.PNG)
 
 ## Working Modules
 
