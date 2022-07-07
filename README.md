@@ -4,12 +4,20 @@
 > In the Mobile View Portfolio there are few important sections are visible.
 > This project has done after getting templete from FIGMA templete #4.
 
-![Portfolio in Mobile View](Protfolio_SS.PNG)
+![Portfolio in Mobile View](/images/Portfolio_SS_1.PNG)
+![Portfolio in Mobile View](/images/Portfolio_SS_12.PNG)
+
+## Working Modules
+
+- First 2 Sections are Working Toolbar and Header Section.
+- Project Area work done.
+
 
 ## Built With
 
 - HTML
 - CSS > FlexBox
+- CSS > Grid
 
 ## Extensions / Plugins
 
