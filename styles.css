@@ -108,10 +108,9 @@
     width: 160px;
     height: 160px;
     border-radius: 50%;
-    left: -96px;
-    top: 50px;
     background: #edecff;
     filter: blur(20px);
+    left: -106px;
   }
 
   .Knowledge {
@@ -290,10 +289,10 @@
 
   .proj-4 .shining-star {
     position: absolute;
-    width: 55.29px;
-    height: 200.04px;
-    left: 288px;
-    top: 3700px;
+    width: 101.29px;
+    height: 377.04px;
+    right: -100px;
+    top: 3600px;
     background: #edecff;
     filter: blur(21px);
     transform: matrix(-0.26, 0.97, 0.97, 0.26, 0, 0);
@@ -314,5 +313,87 @@
 
   .btn:disabled {
     background-color: #2a2b33;
+  }
+
+  .contact-form .flex-container-column,
+  .flex .flex-container-column,
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .contact-form {
+    margin-top: 75px;
+  }
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    gap: 24px;
+  }
+
+  .footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-top: 1px solid #3a3837;
+    align-items: center;
+    padding-top: 15px;
+    margin-bottom: 30px;
+  }
+
+  .contact-form div h2 {
+    margin-bottom: 20px;
+    font-size: 32px;
+    line-height: 44px;
+    color: #9390ff;
+    font-weight: 500;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+  }
+
+  .contact-form div p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #f5f5ff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: 400;
+  }
+
+  .input-cls {
+    width: 100%;
+    padding: 16px;
+    color: #191765;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .input-cls > textarea {
+    height: auto;
+  }
+
+  .submit-btn {
+    margin-top: 16px;
+    margin-bottom: 80px;
+    font-family: 'Roboto', sans-serif;
+  }
+
+  footer .text-hover:hover {
+    text-decoration: 2px underline var(--primary-heading-color);
+  }
+
+  .footer-email > a {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    text-align: center;
+    color: #ebebff;
+    text-decoration: none;
   }
 }
