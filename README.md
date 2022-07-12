@@ -7,11 +7,14 @@
 ![Portfolio in Mobile View](/images/Portfolio_SS_1.PNG)
 ![Portfolio in Mobile View](/images/Portfolio_SS_12.PNG)
 ![Portfolio in Mobile View](/images/Portfolio_SS_123.PNG)
+![Portfolio in Mobile View](/images/Portfolio_SS_1234.PNG)
 
 ## Working Modules
 
 - First 2 Sections are Working Toolbar and Header Section.
 - Project Area work done.
+- Contact Form Work done.
+- Footer Social Icons with Email.
 
 
 ## Built With
@@ -22,6 +25,7 @@
 
 ## Extensions / Plugins
 
+Form Submission at formspree.io
 Linters Installed
 -Lighthouse
 -Webhint
