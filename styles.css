@@ -2,6 +2,15 @@ body {
   background-color: #191765;
 }
 
+.welcom-name {
+  transition-property: transform;
+  transition-duration: 2s;
+}
+
+body.loaded .welcom-name {
+  transform: rotate(360deg);
+}
+
 * {
   margin: 0;
   padding: 0;
