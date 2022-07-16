@@ -1,13 +1,12 @@
 # Protfolio
 
-> This is Portfolio project in Mobile View only .This project developement assing by Microverse.
-> In the Mobile View Portfolio there are few important sections are visible.
+> This is Portfolio project is in Mobile View and Desktop View  only .This project developement assign by Microverse.
+> In the project different sections are working like as Project Area and Contact Us Form 
 > This project has done after getting templete from FIGMA templete #4.
 
 ![Portfolio in Mobile View](/images/Portfolio_SS_1.PNG)
-![Portfolio in Mobile View](/images/Portfolio_SS_12.PNG)
-![Portfolio in Mobile View](/images/Portfolio_SS_123.PNG)
 ![Portfolio in Mobile View](/images/Portfolio_SS_1234.PNG)
+![Portfolio in Mobile View](/images/desktop-view-ss.PNG)
 
 ## Working Modules
 
@@ -15,7 +14,7 @@
 - Project Area work done.
 - Contact Form Work done.
 - Footer Social Icons with Email.
-
+- Transform and Animations Applied
 
 ## Built With
 
