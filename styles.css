@@ -16,7 +16,7 @@ header {
   color: white;
 }
 
-welcom-name {
+.welcom-name {
   color: white;
   text-align: center;
   font-size: 18px;
@@ -31,6 +31,15 @@ header a {
   text-decoration: none;
   color: white;
   font-family: 'Roboto', sans-serif;
+}
+
+header i {
+  transition-property: transform;
+  transition-delay: 1s;
+}
+
+header i:hover {
+  transform: rotate(90deg);
 }
 
 header nav {
