@@ -321,7 +321,8 @@ ul a i {
 
 .btn:hover {
   cursor: pointer;
-  background-color: #6f66f3;
+  background-color: #7d73fc;
+  color: white;
 }
 
 .btn:active {
